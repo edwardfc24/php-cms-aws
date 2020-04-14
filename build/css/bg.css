@@ -1,0 +1,15 @@
+.bg-container {
+	background: url(../../images/plataforma.jpg);
+	background-size: 100%;
+}
+.login_content {
+	background: rgba(0,0,0,0.5);
+	padding: 25px;
+	color: #FFFFFF;
+}
+.login_content h1::before, .login_content h1::after {
+	background: none !important;
+}
+.login_content a {
+	color: #FFFFFF;
+}
