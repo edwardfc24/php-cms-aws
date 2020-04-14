@@ -43,7 +43,7 @@ if (isset($_REQUEST['cliente'])) {
 ?>
 <div class="right_col" role="main">
 	<div class="row">
-		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBV-reLq1H3kCLh8ugTFZV1AKwL0kxQ244"></script>
+		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=XXXXXXXXXXXXXXXXXXXXXXXXX"></script>
 		<div class="col-md-12 col-sm-12 col-xs-12">
 			<div id="map" style="width:100%; height: 500px;"></div>
 		</div>
